@@ -20,4 +20,5 @@ Functionality:
 - Search Control based on the Palestinian Communities (points) Layer.
 - Adds and removes the Palestinian Communities Layer based on the zoom level in order to create a clear and uncluttered map display at lower zoom levels
 - Layer Control to add and remove layers.
+- Scale Control
 - Legend Control that adds and removes parts of it based on if the layer is turned on or off in the Layer Control.
